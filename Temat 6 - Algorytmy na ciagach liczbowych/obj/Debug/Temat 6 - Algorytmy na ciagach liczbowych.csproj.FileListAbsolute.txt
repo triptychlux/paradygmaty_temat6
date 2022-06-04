@@ -1,0 +1,10 @@
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\bin\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe.config
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\bin\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\bin\Debug\Temat 6 - Algorytmy na ciagach liczbowych.pdb
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.csproj.AssemblyReference.cache
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat_6___Algorytmy_na_ciagach_liczbowych.Form1.resources
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat_6___Algorytmy_na_ciagach_liczbowych.Properties.Resources.resources
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.csproj.GenerateResource.cache
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.csproj.CoreCompileInputs.cache
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.pdb

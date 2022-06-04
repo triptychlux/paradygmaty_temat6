@@ -16,5 +16,10 @@ namespace Temat_6___Algorytmy_na_ciagach_liczbowych
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
