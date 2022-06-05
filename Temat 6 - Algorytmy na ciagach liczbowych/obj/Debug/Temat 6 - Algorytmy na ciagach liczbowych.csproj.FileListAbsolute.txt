@@ -8,3 +8,7 @@ C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty
 C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.csproj.CoreCompileInputs.cache
 C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe
 C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.pdb
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\bin\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe.manifest
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\bin\Debug\Temat 6 - Algorytmy na ciagach liczbowych.application
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.exe.manifest
+C:\Users\Kapi\source\repos\Temat 6 - Algorytmy na ciagach liczbowych\paradygmaty_temat6\Temat 6 - Algorytmy na ciagach liczbowych\obj\Debug\Temat 6 - Algorytmy na ciagach liczbowych.application
