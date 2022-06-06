@@ -42,9 +42,9 @@ namespace Temat_6___Algorytmy_na_ciagach_liczbowych
             // 
             this.button1.Location = new System.Drawing.Point(14, 101);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(188, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "Znajdź najdłuższy wspólny podciąg";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -61,9 +61,9 @@ namespace Temat_6___Algorytmy_na_ciagach_liczbowych
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(12, 29);
-            this.textBox1.MaxLength = 29;
+            this.textBox1.MaxLength = 48;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(176, 20);
+            this.textBox1.Size = new System.Drawing.Size(300, 20);
             this.textBox1.TabIndex = 11;
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
@@ -89,8 +89,9 @@ namespace Temat_6___Algorytmy_na_ciagach_liczbowych
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(12, 75);
+            this.textBox2.MaxLength = 48;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(176, 20);
+            this.textBox2.Size = new System.Drawing.Size(300, 20);
             this.textBox2.TabIndex = 15;
             // 
             // label4
