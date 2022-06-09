@@ -235,7 +235,7 @@ namespace Temat_6___Algorytmy_na_ciagach_liczbowych
             this.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Ciągi liczbowe";
             this.ResumeLayout(false);
             this.PerformLayout();
 
