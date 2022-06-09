@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Temat 6 - Algorytmy na ciagach liczbowych.exe" size="13272">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Temat 6 - Algorytmy na ciagach liczbowych.exe" size="16856">
       <assemblyIdentity name="Temat 6 - Algorytmy na ciagach liczbowych" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Fmow/SQ+zaD+ThNPiAN+ZrDGNOwog5hTuZoK3cUnqWU=</dsig:DigestValue>
+        <dsig:DigestValue>qr6jMPjLpEBYl4tuuD2whrTUOwnmWAbPZexKSMXQuG8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
